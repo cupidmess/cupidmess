@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cupidmess
 - 👀 I’m interested in coding,hehe.
-- 🌱 I’m currently learning frameworks of JAVASCRIPT .
+- 🌱 I’m currently learning Data Structures .
 - 💞️ I’m looking to collaborate on GitHub, Instagram or LinkedIN
 - 📫 How to reach me @cupidmess (instagram) , shreyasameerbhoir16@gmail.com(gmail)
 
