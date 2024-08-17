@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Machine Learning and Django**
 
-💬 Ask me about **Python, React, Django or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, React, Django or anything [here](https://github.com/cupidmess/cupidmess/issues)**
 
 ⚡ **Fun Fact** : AI won't take up any jobs!
 
@@ -24,7 +24,7 @@
   <a href="mailto:shreyasameerbhoir16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://linkedin.com/in/pedro-sales-muniz" target="_blank](https://www.linkedin.com/in/shreya-bhoir-969251276/)">
+  <a href="https://www.linkedin.com/in/shreya-bhoir-969251276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="[https://salesp07.github.io" target="_blank](https://github.com/cupidmess)">
