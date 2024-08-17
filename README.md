@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/shreya-bhoir-969251276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="[https://salesp07.github.io" target="_blank](https://github.com/cupidmess)">
+  <a href="https://github.com/cupidmess" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,canva,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,figma,github,canva,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,django,express,mongodb,c,java,mysql" /><br>
 </div>
 
